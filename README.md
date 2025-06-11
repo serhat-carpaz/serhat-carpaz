@@ -13,6 +13,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhat-%C3%A7arpaz-2a55a5369/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/senin-idin)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/serhatcarpaz)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/serhatcarpaz)
+[![Zindi](https://img.shields.io/badge/Zindi-EA6B26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRUE2QjI2IiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAzMDAgMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNTAsNzBMMTUwLDcwTDc1LDE1MEw1MCwxNzVMMTUsMjUwTDEwMCwyNTBMMTUwLDE5MEwyMDAsMjUwTDI4NSwyNTBMOTAsNzVMMjUwLDcwWiIvPjwvc3ZnPg==&logoColor=white)](https://zindi.africa/users/serhatcarpaz)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serhatcarpaz)
 
 ---
 

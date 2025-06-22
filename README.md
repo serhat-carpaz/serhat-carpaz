@@ -48,12 +48,6 @@
 ### 🛠 Focus Areas:
 
 - 🧠 **Artificial Intelligence (AI)**  
-- 📊 **Machine Learning**  
-- 🤖 **Deep Learning**  
-- 🎨 **Generative Models**  
-- 👁️ **Vision Transformers (ViT)**  
-- 📚 **Natural Language Processing (NLP)**  
-- 🕹️ **Reinforcement Learning**  
 - 🔐 **Cybersecurity**  
 - ⚛️ **Quantum Physics & Computing**  
 
